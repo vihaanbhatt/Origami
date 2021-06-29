@@ -1,0 +1,50 @@
+h1 {
+    color:rgb(55, 172, 100);
+    font-family: sans-serif;
+    
+}
+.header{
+    background-color: rgb(18, 205, 251);
+    display: flex;
+    justify-content:space-evenly;
+    font-family:monospace;
+}
+
+.grid{
+    background-color: lightgreen;
+    display:flex;
+    flex-wrap:inherit;
+
+    justify-content:space-evenly;
+    font-family: monospace;
+}
+h2{
+    color: lightcoral;
+    font-family: sans-serif;
+    
+}
+h3{
+    color: lightcoral;
+    font-family: sans-serif;
+}
+h4{
+    color: lightcoral;
+    font-family: sans-serif;
+
+}
+h5{
+    color: lightcoral;
+    font-family: sans-serif
+}
+h6{
+    color: lightcoral;
+    font-family: sans-serif;
+}
+h4{
+    color: lightcoral;
+    font-family: sans-serif;
+    
+}
+body{
+    background-color: rgb(122, 171, 175);
+}
