@@ -1,18 +1,18 @@
 h1 {
-    color:rgb(55, 172, 100);
+    color:black;
     font-family: sans-serif;
     
 }
 .header{
-    background-color: rgb(18, 205, 251);
-    display: flex;
+    background-color:lightgray;
+    
     justify-content:space-evenly;
     font-family:monospace;
 }
 
 .grid{
-    background-color: lightgreen;
-    display:flex;
+    background-color:white;
+    
     flex-wrap:inherit;
 
     justify-content:space-evenly;
@@ -26,6 +26,7 @@ h2{
 h3{
     color: lightcoral;
     font-family: sans-serif;
+   
 }
 h4{
     color: lightcoral;
@@ -46,5 +47,11 @@ h4{
     
 }
 body{
-    background-color: rgb(122, 171, 175);
+    background-color: rgb(255, 255, 255);
+
+}
+img{
+    border:groove;
+    border-radius: 20px;
+    border-color: black;
 }
